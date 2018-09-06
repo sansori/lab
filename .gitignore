@@ -11,8 +11,13 @@
 .mtj.tmp/
 
 # Package Files #
+<<<<<<< HEAD
 #*.jar
 #*.war
+=======
+*.jar
+*.war
+>>>>>>> parent of d251aaf... Update .gitignore
 *.nar
 *.ear
 *.zip
